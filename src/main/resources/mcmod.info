@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dreamfinity_bugfix",
+  "name": "Dreamfinity bugfix mod",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Svoloch"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
